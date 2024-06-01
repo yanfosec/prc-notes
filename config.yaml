@@ -29,9 +29,8 @@ menu:
       weight: 10
 
 params:
-
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: Yan Kravchenko
+  title: PRC Notes
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -41,7 +40,7 @@ params:
 
   # Enable rendering of LaTeX blocks
   # (surrounded by either single or double dollar signs)
-  enableLatex: true
+  enableLatex: false
 
   # whether to render titles for code blocks
   enableCodeBlockTitle: true
@@ -64,13 +63,13 @@ params:
 
   # whether to display an 'edit' button next to the last edited field
   # that links to github
-  enableGitHubEdit: true
+  enableGitHubEdit: false
 
   # whether to render mermaid diagrams
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/yanfosec/amethyst
 
   # Search (WIP)
   search:
@@ -79,16 +78,14 @@ params:
     operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 
   # Site description and title
-  description:
-    Notes, hosted by bencuan
+  description: One parent's notes from Mayo Clinic's Adolescent Pain Rehab Clinic (PRC)
 
-  
   # Footer links
   links:
     - link_name: Website
       link: https://bencuan.me
-    - link_name: Blog
-      link: https://blog.bencuan.me
+    - link_name: Personal Site
+      link: https://yanfosec.com
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -128,7 +125,6 @@ params:
   # - In git information
   # - In blog posts
   BookDateFormat: "January 2, 2006"
-
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
