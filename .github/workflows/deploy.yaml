@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.18
+        uses: jackyzha0/hugo-obsidian@v2.20
         with:
           index: true
           input: content
@@ -31,7 +31,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
