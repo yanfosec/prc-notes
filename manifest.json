@@ -1,14 +1,14 @@
 {
   "name": "<no value>",
   "short_name": "<no value>",
-  "start_url": "/prc-notes/",
-  "scope": "/prc-notes/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/prc-notes/favicon.png",
+      "src": "/favicon.png",
       "sizes": "1024x1024"
     }
   ]
