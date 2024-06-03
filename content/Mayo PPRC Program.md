@@ -14,6 +14,8 @@ tags:
 
 # Notes
 
+[[Acceptance and Commitment Therapy (ACT)]]
+
 [PRC - Consequences](PRC - Consequences "wikilink")
 [PRC - Plans for going home](PRC - Plans for going home "wikilink")
 [Central Sensitization](Central Sensitization "wikilink")
