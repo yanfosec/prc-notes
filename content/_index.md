@@ -1,5 +1,5 @@
 ---
-title: One Parent's Notes from Adolescent Pain Rehab Clinic
+title: One Parent's Notes from Pediatric Pain Rehab Clinic
 enableToc: false
 ---
 
