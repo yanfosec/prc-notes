@@ -1,5 +1,8 @@
 ---
-tags: 
+tags:
+  - CBT
+  - ACT
+  - Hexaflex
 title: Acceptance and Commitment Therapy (ACT)
 ---
 [PPRC Home](PPRC%20Home.md)
@@ -28,7 +31,8 @@ Each of these six domains corresponds to one of the core ACT principles, all of 
 
 # The Happiness Trap: Evolution of the Human Mind
 
-[The Happiness Trap: Evolution of the Human Mind - YouTube](https://www.youtube.com/watch?v=kv6HkipQcfA)
+{{< youtube kv6HkipQcfA >}}
+
 ## ONE SENTENCE SUMMARY:
 The human mind's evolution to prioritize safety and survival leads to modern psychological suffering patterns.
 
@@ -77,7 +81,9 @@ The human mind's evolution to prioritize safety and survival leads to modern psy
 # The Struggle Switch - By Dr. Russ Harris
 
 [Learn ACT with Russ Harris \| Psychwire](https://psychwire.com/harris)
-[The Struggle Switch - By Dr. Russ Harris - YouTube](https://www.youtube.com/watch?v=rCp1l16GCXI)
+
+{{< youtube rCp1l16GCXI >}}
+
 \## ONE SENTENCE SUMMARY:
 Struggling with emotions amplifies them, but turning off the struggle switch allows for easier acceptance.
 \## MAIN POINTS:
@@ -110,7 +116,8 @@ Struggling with emotions amplifies them, but turning off the struggle switch all
 
 # The Stageshow Metaphor
 
-[The Stageshow Metaphor - YouTube](https://www.youtube.com/watch?v=nBPPr1hsbMM)
+{{< youtube nBPPr1hsbMM >}}
+
 \## ONE SENTENCE SUMMARY:
 Life is like a stage show where the observing self can shift focus to what matters most.
 \## MAIN POINTS:
@@ -162,8 +169,9 @@ Life is like a stage show where the observing self can shift focus to what matte
 
 # Mindfulness Everyday Life
 
-["Mindfulness Ιn Everyday Life" Jon Kabat Zinn with Oprah Winfrey - YouTube](https://www.youtube.com/watch?v=D5r2sBQM31k)
-\## SUMMARY:
+{{< youtube D5r2sBQM31k >}}
+
+## SUMMARY:
 Renowned scientist Jon Kabat-Zinn discusses mindfulness as a gateway to being fully human and living a meaningful life.
 
 ## IDEAS:

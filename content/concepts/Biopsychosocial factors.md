@@ -1,30 +1,15 @@
 ---
-created: 2024-05-29
-related:
-- "[PRC - Mayo PPRC Program](PRC - Mayo PPRC Program \"wikilink\")"
 tags:
-- PRC
-up:
-- "[PRC - Acute and Chronic Pain and Symptoms](PRC - Acute and Chronic Pain and Symptoms \"wikilink\")"
+  - social
+  - biological
+  - psychological
+title: Biopsychosocial Factors
 ---
 
-<figure>
-<img
-src="https://www.bing.com/th?id=OSK.57057ad4539bfd4375a4eb1a25bfb0b6&amp;pid=cdx&amp;w=320&amp;h=189&amp;c=7&amp;rs=1"
-alt="Biopsychosocialmodel" />
-<figcaption aria-hidden="true">Biopsychosocialmodel</figcaption>
-</figure>
 
-<figure>
-<img
-src="https://www.bing.com/th?id=OSK.57057ad4539bfd4375a4eb1a25bfb0b6&amp;pid=cdx&amp;w=203&amp;h=189&amp;c=7"
-alt="Biopsychosocialmodel" />
-<figcaption aria-hidden="true">Biopsychosocialmodel</figcaption>
-</figure>
+![](images/biopsychosocial-factors.png)
 
-Explore
-
-refer to the interconnection between biology, psychology, and socio-environmental factors. These factors play a significant role in understanding health and wellness[1](https://www.verywellmind.com/understanding-the-biopsychosocial-model-7549226). Here's a breakdown of each component:
+This concept refers to the interconnection between biology, psychology, and socio-environmental factors. These factors play a significant role in understanding health and wellness[1](https://www.verywellmind.com/understanding-the-biopsychosocial-model-7549226). Here's a breakdown of each component:
 
 1.  **Biological Factors**: These include physiological factors such as genetics and illness pathology[1](https://www.verywellmind.com/understanding-the-biopsychosocial-model-7549226). Our physical well-being impacts our mental health for multiple reasons. For example, chronic pain can lead to symptoms of depression[1](https://www.verywellmind.com/understanding-the-biopsychosocial-model-7549226).
 
