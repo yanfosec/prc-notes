@@ -1,9 +1,8 @@
 ---
-created: 2024-05-17
-related:
-- "[ Guenn MOC]( Guenn MOC \"wikilink\")"
+title: PPRC Program Overview
+anebleToc: false
 tags:
-- PRC
+  - PRC
 ---
 
 # Overview
@@ -14,7 +13,7 @@ tags:
 
 # Notes
 
-[Acceptance and Commitment Therapy (ACT)](Acceptance%20and%20Commitment%20Therapy%20(ACT).md)
+[Acceptance and Commitment Therapy (ACT)](<Acceptance%20and%20Commitment%20Therapy%20(ACT).md>)
 
 [PRC - Consequences](PRC - Consequences "wikilink")
 [PRC - Plans for going home](PRC - Plans for going home "wikilink")
