@@ -11,7 +11,7 @@
   translation: Expand
 
 - id: bookSearchConfig
-  translation: '{ cache: true }'
+  translation: "{ cache: true }"
 
 - id: 404_message
   translation: "Hey! You look a little lost. This page doesn't exist (or may be private)."
@@ -77,4 +77,4 @@
   translation: "Table of Contents"
 
 - id: copyright
-  translation: "Made with <a href=\"https://github.com/64bitpandas/amethyst\">Amethyst</a>, © {{ .year }} {{ .name }}"
+  translation: "For Informational Purpose Only, NOT MEDICAL ADVICE OF ANY KIND, © {{ .year }} {{ .name }}"
