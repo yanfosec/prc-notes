@@ -1,21 +1,23 @@
 {
   "index": {
     "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/PPRC-Home",
+          "text": "PPRC Home"
+        }
+      ],
       "/Acceptance-and-Commitment-Therapy-ACT": [
         {
           "source": "/Acceptance-and-Commitment-Therapy-ACT",
-          "target": "/Mayo-PPRC-Program",
-          "text": "Mayo PPRC Program"
-        },
-        {
-          "source": "/Acceptance-and-Commitment-Therapy-ACT",
-          "target": "/Mayo-PPRC-Program",
-          "text": "Mayo PPRC Program"
+          "target": "/PPRC-Home",
+          "text": "PPRC Home"
         }
       ],
-      "/Mayo-PPRC-Program": [
+      "/PPRC-Home": [
         {
-          "source": "/Mayo-PPRC-Program",
+          "source": "/PPRC-Home",
           "target": "/Acceptance-and-Commitment-Therapy-ACT",
           "text": "Acceptance and Commitment Therapy (ACT)"
         }
@@ -24,21 +26,21 @@
     "backlinks": {
       "/Acceptance-and-Commitment-Therapy-ACT": [
         {
-          "source": "/Mayo-PPRC-Program",
+          "source": "/PPRC-Home",
           "target": "/Acceptance-and-Commitment-Therapy-ACT",
           "text": "Acceptance and Commitment Therapy (ACT)"
         }
       ],
-      "/Mayo-PPRC-Program": [
+      "/PPRC-Home": [
         {
           "source": "/Acceptance-and-Commitment-Therapy-ACT",
-          "target": "/Mayo-PPRC-Program",
-          "text": "Mayo PPRC Program"
+          "target": "/PPRC-Home",
+          "text": "PPRC Home"
         },
         {
-          "source": "/Acceptance-and-Commitment-Therapy-ACT",
-          "target": "/Mayo-PPRC-Program",
-          "text": "Mayo PPRC Program"
+          "source": "/",
+          "target": "/PPRC-Home",
+          "text": "PPRC Home"
         }
       ]
     }
@@ -46,18 +48,18 @@
   "links": [
     {
       "source": "/Acceptance-and-Commitment-Therapy-ACT",
-      "target": "/Mayo-PPRC-Program",
-      "text": "Mayo PPRC Program"
+      "target": "/PPRC-Home",
+      "text": "PPRC Home"
     },
     {
-      "source": "/Acceptance-and-Commitment-Therapy-ACT",
-      "target": "/Mayo-PPRC-Program",
-      "text": "Mayo PPRC Program"
-    },
-    {
-      "source": "/Mayo-PPRC-Program",
+      "source": "/PPRC-Home",
       "target": "/Acceptance-and-Commitment-Therapy-ACT",
       "text": "Acceptance and Commitment Therapy (ACT)"
+    },
+    {
+      "source": "/",
+      "target": "/PPRC-Home",
+      "text": "PPRC Home"
     }
   ]
 }
