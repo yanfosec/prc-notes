@@ -1,14 +1,24 @@
 ---
-tags: []
+tags: 
 title: Mayo's PPRC Program Overview
 ---
 
-# Overview
-
-![[images/prc-whiteboard.jpeg]]
-
 ![[images/prc_overview.png]]
 
+tpl
+{{< tabs "uniqueid" >}}
+{{< tab "MacOS" >}} # MacOS Content {{< /tab >}}
+{{< tab "Linux" >}} # Linux Content {{< /tab >}}
+{{< tab "Windows" >}} # Windows Content {{< /tab >}}
+{{< /tabs >}}
+
+
+```tpl
+{{< expand "Custom Label" "..." >}}
+## Markdown content
+Lorem markdownum insigne...
+{{< /expand >}}
+```
 # Notes
 
 [Acceptance and Commitment Therapy (ACT)](Acceptance%20and%20Commitment%20Therapy%20(ACT).md)

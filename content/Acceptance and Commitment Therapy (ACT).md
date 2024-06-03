@@ -2,7 +2,7 @@
 tags: 
 title: Acceptance and Commitment Therapy
 ---
-[Mayo-PPRC-Program](Mayo-PPRC-Program.md)
+[PPRC Home](PPRC%20Home.md)
 # CBT Triangle
 
 ![[images/cbt-triangle-black.png]]
