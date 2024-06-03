@@ -1,7 +1,9 @@
 ---
-title: 💜 Welcome to Amethyst!
+title: One Parent's Notes from Adolescent Pain Rehab Clinic
 enableToc: false
 ---
+
+# Welcome to my notes
 
 ## What is Amethyst?
 
@@ -28,9 +30,3 @@ Amethyst was primarily created as a theme for my [course notes](https://notes.be
 Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
 
 Here's a list of all [setup-related notes](/tags/setup), which are also accessible via the sidebar menu under the "Getting Started" section.
-
-### Troubleshooting
-
-- 🚧 [Troubleshooting and FAQ](setup/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/64bitpandas/amethyst/issues)
-- 👀 [Contact me](https://bencuan.me/contact)
