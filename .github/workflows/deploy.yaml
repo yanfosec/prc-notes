@@ -23,7 +23,7 @@ jobs:
           root: .
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "0.126.2"
           extended: true
@@ -40,6 +40,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          #publish_branch: deploy # deploying branch
+          publish_branch: deploy # deploying branch
 
           
