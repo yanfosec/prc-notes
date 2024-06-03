@@ -1,11 +1,8 @@
 ---
-created: 2024-05-24
-tags:
-  - PRC
-up:
-  - "[[Mayo PPRC Program]]"
+tags: 
+title: Acceptance and Commitment Therapy
 ---
-[Mayo PPRC Program](Mayo%20PPRC%20Program.md)
+[Mayo-PPRC-Program](Mayo-PPRC-Program.md)
 # CBT Triangle
 
 ![[images/cbt-triangle-black.png]]

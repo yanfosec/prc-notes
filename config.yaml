@@ -1,4 +1,4 @@
-baseURL: https://yanfosec.github.io/
+baseURL: https://pprc-notes.space/
 
 # Book configuration
 disablePathToLower: true
@@ -83,7 +83,7 @@ params:
   # Footer links
   links:
     - link_name: Website
-      link: https://yanfosec.github.io/
+      link: https://pprc-notes.space/
     - link_name: Personal Site
       link: https://yanfosec.com
 

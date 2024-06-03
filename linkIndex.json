@@ -1,0 +1,621 @@
+{
+  "index": {
+    "links": {
+      "README": [
+        {
+          "source": "README",
+          "target": "/LICENSE",
+          "text": ""
+        }
+      ],
+      "content.old/": [
+        {
+          "source": "content.old/",
+          "target": "/setup/setup",
+          "text": "Setup your own Amethyst instance"
+        },
+        {
+          "source": "content.old/",
+          "target": "/setup/editing",
+          "text": "Editing Notes in Amethyst"
+        },
+        {
+          "source": "content.old/",
+          "target": "/setup/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Amethyst"
+        },
+        {
+          "source": "content.old/",
+          "target": "/setup/preview-changes",
+          "text": "Preview Changes"
+        },
+        {
+          "source": "content.old/",
+          "target": "/setup/hosting",
+          "text": "Hosting Amethyst online!"
+        },
+        {
+          "source": "content.old/",
+          "target": "/setup/config",
+          "text": "Customizing Amethyst"
+        },
+        {
+          "source": "content.old/",
+          "target": "/setup/updating",
+          "text": "update"
+        },
+        {
+          "source": "content.old/",
+          "target": "/tags/setup",
+          "text": "setup-related notes"
+        }
+      ],
+      "content.old/features/languages": [
+        {
+          "source": "content.old/features/languages",
+          "target": "/setup/config",
+          "text": "config"
+        }
+      ],
+      "content.old/setup/config": [
+        {
+          "source": "content.old/setup/config",
+          "target": "/features/language",
+          "text": "Chinese, Japanese, and Korean support"
+        },
+        {
+          "source": "content.old/setup/config",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "content.old/setup/editing": [
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Amethyst"
+        },
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/preview-changes",
+          "text": "Preview Changes"
+        },
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/hosting",
+          "text": "Hosting Amethyst online!"
+        },
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "content.old/setup/hosting": [
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/custom-Domain",
+          "text": "Learn how to set it up with Amethyst"
+        },
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/ignore-notes",
+          "text": "Excluding pages from being published"
+        },
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/config",
+          "text": "Customizing Amethyst"
+        },
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "content.old/setup/obsidian": [
+        {
+          "source": "content.old/setup/obsidian",
+          "target": "/setup/setup",
+          "text": "setup"
+        },
+        {
+          "source": "content.old/setup/obsidian",
+          "target": "/setup/preview-changes",
+          "text": "Preview Changes"
+        }
+      ],
+      "content.old/setup/preview-changes": [
+        {
+          "source": "content.old/setup/preview-changes",
+          "target": "/setup/hosting",
+          "text": "Hosting Amethyst online!"
+        }
+      ],
+      "content.old/setup/setup": [
+        {
+          "source": "content.old/setup/setup",
+          "target": "/setup/editing",
+          "text": "Editing Notes in Amethyst"
+        },
+        {
+          "source": "content.old/setup/setup",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "content.old/setup/troubleshooting": [
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/features/latex",
+          "text": "LaTeX"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/ignore-notes",
+          "text": "excluding pages from being published"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/obsidian",
+          "text": "Obsidian"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/editing",
+          "text": "the 'how to edit' guide"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/hosting",
+          "text": "the hosting guide"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/config",
+          "text": "customization guide"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/editing",
+          "text": "local editing"
+        }
+      ],
+      "content/Acceptance-and-Commitment-Therapy-ACT": [
+        {
+          "source": "content/Acceptance-and-Commitment-Therapy-ACT",
+          "target": "/Mayo-PPRC-Program",
+          "text": "Mayo PPRC Program"
+        },
+        {
+          "source": "content/Acceptance-and-Commitment-Therapy-ACT",
+          "target": "/Mayo-PPRC-Program",
+          "text": "Mayo PPRC Program"
+        }
+      ],
+      "content/Mayo-PPRC-Program": [
+        {
+          "source": "content/Mayo-PPRC-Program",
+          "target": "/Acceptance-and-Commitment-Therapy-ACT",
+          "text": "Acceptance and Commitment Therapy (ACT)"
+        }
+      ]
+    },
+    "backlinks": {
+      "/Acceptance-and-Commitment-Therapy-ACT": [
+        {
+          "source": "content/Mayo-PPRC-Program",
+          "target": "/Acceptance-and-Commitment-Therapy-ACT",
+          "text": "Acceptance and Commitment Therapy (ACT)"
+        }
+      ],
+      "/LICENSE": [
+        {
+          "source": "README",
+          "target": "/LICENSE",
+          "text": ""
+        }
+      ],
+      "/Mayo-PPRC-Program": [
+        {
+          "source": "content/Acceptance-and-Commitment-Therapy-ACT",
+          "target": "/Mayo-PPRC-Program",
+          "text": "Mayo PPRC Program"
+        },
+        {
+          "source": "content/Acceptance-and-Commitment-Therapy-ACT",
+          "target": "/Mayo-PPRC-Program",
+          "text": "Mayo PPRC Program"
+        }
+      ],
+      "/features/language": [
+        {
+          "source": "content.old/setup/config",
+          "target": "/features/language",
+          "text": "Chinese, Japanese, and Korean support"
+        }
+      ],
+      "/features/latex": [
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/features/latex",
+          "text": "LaTeX"
+        }
+      ],
+      "/setup/config": [
+        {
+          "source": "content.old/",
+          "target": "/setup/config",
+          "text": "Customizing Amethyst"
+        },
+        {
+          "source": "content.old/features/languages",
+          "target": "/setup/config",
+          "text": "config"
+        },
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/config",
+          "text": "Customizing Amethyst"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/config",
+          "text": "customization guide"
+        }
+      ],
+      "/setup/custom-Domain": [
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/custom-Domain",
+          "text": "Learn how to set it up with Amethyst"
+        }
+      ],
+      "/setup/editing": [
+        {
+          "source": "content.old/",
+          "target": "/setup/editing",
+          "text": "Editing Notes in Amethyst"
+        },
+        {
+          "source": "content.old/setup/setup",
+          "target": "/setup/editing",
+          "text": "Editing Notes in Amethyst"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/editing",
+          "text": "the 'how to edit' guide"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/editing",
+          "text": "local editing"
+        }
+      ],
+      "/setup/hosting": [
+        {
+          "source": "content.old/",
+          "target": "/setup/hosting",
+          "text": "Hosting Amethyst online!"
+        },
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/hosting",
+          "text": "Hosting Amethyst online!"
+        },
+        {
+          "source": "content.old/setup/preview-changes",
+          "target": "/setup/hosting",
+          "text": "Hosting Amethyst online!"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/hosting",
+          "text": "the hosting guide"
+        }
+      ],
+      "/setup/ignore-notes": [
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/ignore-notes",
+          "text": "Excluding pages from being published"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/ignore-notes",
+          "text": "excluding pages from being published"
+        }
+      ],
+      "/setup/obsidian": [
+        {
+          "source": "content.old/",
+          "target": "/setup/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Amethyst"
+        },
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Amethyst"
+        },
+        {
+          "source": "content.old/setup/troubleshooting",
+          "target": "/setup/obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/setup/preview-changes": [
+        {
+          "source": "content.old/",
+          "target": "/setup/preview-changes",
+          "text": "Preview Changes"
+        },
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/preview-changes",
+          "text": "Preview Changes"
+        },
+        {
+          "source": "content.old/setup/obsidian",
+          "target": "/setup/preview-changes",
+          "text": "Preview Changes"
+        }
+      ],
+      "/setup/setup": [
+        {
+          "source": "content.old/",
+          "target": "/setup/setup",
+          "text": "Setup your own Amethyst instance"
+        },
+        {
+          "source": "content.old/setup/obsidian",
+          "target": "/setup/setup",
+          "text": "setup"
+        }
+      ],
+      "/setup/troubleshooting": [
+        {
+          "source": "content.old/setup/config",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "content.old/setup/editing",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "content.old/setup/hosting",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "content.old/setup/setup",
+          "target": "/setup/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "/setup/updating": [
+        {
+          "source": "content.old/",
+          "target": "/setup/updating",
+          "text": "update"
+        }
+      ],
+      "/tags/setup": [
+        {
+          "source": "content.old/",
+          "target": "/tags/setup",
+          "text": "setup-related notes"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "README",
+      "target": "/LICENSE",
+      "text": ""
+    },
+    {
+      "source": "content/Acceptance-and-Commitment-Therapy-ACT",
+      "target": "/Mayo-PPRC-Program",
+      "text": "Mayo PPRC Program"
+    },
+    {
+      "source": "content/Acceptance-and-Commitment-Therapy-ACT",
+      "target": "/Mayo-PPRC-Program",
+      "text": "Mayo PPRC Program"
+    },
+    {
+      "source": "content/Mayo-PPRC-Program",
+      "target": "/Acceptance-and-Commitment-Therapy-ACT",
+      "text": "Acceptance and Commitment Therapy (ACT)"
+    },
+    {
+      "source": "content.old/",
+      "target": "/setup/setup",
+      "text": "Setup your own Amethyst instance"
+    },
+    {
+      "source": "content.old/",
+      "target": "/setup/editing",
+      "text": "Editing Notes in Amethyst"
+    },
+    {
+      "source": "content.old/",
+      "target": "/setup/obsidian",
+      "text": "How to setup your Obsidian Vault to work with Amethyst"
+    },
+    {
+      "source": "content.old/",
+      "target": "/setup/preview-changes",
+      "text": "Preview Changes"
+    },
+    {
+      "source": "content.old/",
+      "target": "/setup/hosting",
+      "text": "Hosting Amethyst online!"
+    },
+    {
+      "source": "content.old/",
+      "target": "/setup/config",
+      "text": "Customizing Amethyst"
+    },
+    {
+      "source": "content.old/",
+      "target": "/setup/updating",
+      "text": "update"
+    },
+    {
+      "source": "content.old/",
+      "target": "/tags/setup",
+      "text": "setup-related notes"
+    },
+    {
+      "source": "content.old/features/languages",
+      "target": "/setup/config",
+      "text": "config"
+    },
+    {
+      "source": "content.old/setup/config",
+      "target": "/features/language",
+      "text": "Chinese, Japanese, and Korean support"
+    },
+    {
+      "source": "content.old/setup/config",
+      "target": "/setup/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content.old/setup/editing",
+      "target": "/setup/obsidian",
+      "text": "How to setup your Obsidian Vault to work with Amethyst"
+    },
+    {
+      "source": "content.old/setup/editing",
+      "target": "/setup/preview-changes",
+      "text": "Preview Changes"
+    },
+    {
+      "source": "content.old/setup/editing",
+      "target": "/setup/hosting",
+      "text": "Hosting Amethyst online!"
+    },
+    {
+      "source": "content.old/setup/editing",
+      "target": "/setup/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content.old/setup/hosting",
+      "target": "/setup/custom-Domain",
+      "text": "Learn how to set it up with Amethyst"
+    },
+    {
+      "source": "content.old/setup/hosting",
+      "target": "/setup/ignore-notes",
+      "text": "Excluding pages from being published"
+    },
+    {
+      "source": "content.old/setup/hosting",
+      "target": "/setup/config",
+      "text": "Customizing Amethyst"
+    },
+    {
+      "source": "content.old/setup/hosting",
+      "target": "/setup/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content.old/setup/obsidian",
+      "target": "/setup/setup",
+      "text": "setup"
+    },
+    {
+      "source": "content.old/setup/obsidian",
+      "target": "/setup/preview-changes",
+      "text": "Preview Changes"
+    },
+    {
+      "source": "content.old/setup/preview-changes",
+      "target": "/setup/hosting",
+      "text": "Hosting Amethyst online!"
+    },
+    {
+      "source": "content.old/setup/setup",
+      "target": "/setup/editing",
+      "text": "Editing Notes in Amethyst"
+    },
+    {
+      "source": "content.old/setup/setup",
+      "target": "/setup/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/features/latex",
+      "text": "LaTeX"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/hosting",
+      "text": "hosting"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/ignore-notes",
+      "text": "excluding pages from being published"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/hosting",
+      "text": "hosting"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/editing",
+      "text": "the 'how to edit' guide"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/hosting",
+      "text": "the hosting guide"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/config",
+      "text": "customization guide"
+    },
+    {
+      "source": "content.old/setup/troubleshooting",
+      "target": "/setup/editing",
+      "text": "local editing"
+    }
+  ]
+}
