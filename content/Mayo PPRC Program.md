@@ -14,7 +14,7 @@ tags:
 
 # Notes
 
-[[Acceptance and Commitment Therapy (ACT)]]
+[Acceptance and Commitment Therapy (ACT)](Acceptance%20and%20Commitment%20Therapy%20(ACT).md)
 
 [PRC - Consequences](PRC - Consequences "wikilink")
 [PRC - Plans for going home](PRC - Plans for going home "wikilink")

@@ -5,7 +5,7 @@ tags:
 up:
   - "[[Mayo PPRC Program]]"
 ---
-
+[Mayo PPRC Program](Mayo%20PPRC%20Program.md)
 # CBT Triangle
 
 ![[images/cbt-triangle-black.png]]
